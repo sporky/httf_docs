@@ -1,0 +1,14 @@
+Strategy Tips
+=============
+
+Game Time: **2 hours**
+
+- Explore the game first
+- Divide and conquer
+- Installing a |f5| |bip| Appliance
+- Powering on a |bip| Appliance
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:

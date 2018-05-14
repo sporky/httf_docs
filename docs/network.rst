@@ -2,7 +2,7 @@ Network Access
 --------------
 
 During the game, you will connect to a network with a real CAT5 ethernet cable.  This
-cable will provide access to Internet and in-game resources. 
+cable will provide access to Internet and in-game resources.  **Turn off your wifi.**
 
 .. NOTE::
    You **must** use the ethernet port on the table in front you.  It's the only 
